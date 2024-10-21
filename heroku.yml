@@ -2,5 +2,5 @@ build:
   docker:
    web: Dockerfile
 
-run:
-  web: npm start
+run: yarn install 
+  web: npm install 
