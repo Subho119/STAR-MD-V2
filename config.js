@@ -13,7 +13,7 @@ global.owner = [
 
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "918945999655" //put your bot number here
 
 global.mods = ['2341', '2348021779696', '2347045035241','233533763772'] 
 global.prems = ['2347045035241','233208179431','233533763772']
